@@ -13,7 +13,8 @@ tags is the forward slash after the opening bracket of a closing tag.
 
 <h2> This is a smaller heading </h2>
 
-p elements are the preferred element for paragraph text on websites. p is short for "paragraph".
+p elements are the preferred element for paragraph text on websites. p is short for 
+"paragraph".
 
 You can create a paragraph element like this:
 
@@ -25,3 +26,29 @@ Comments in HTML start with <!-- and end with a -->
 This would be a Comment
 --> 
 
+HTML5 introduces more descriptive HTML tags. These include main,
+header, footer, nav, video, article, section and others.
+
+These tags give a descriptive structure to your HTML, 
+make your HTML easier to read, and help with Search Engine Optimization (SEO) 
+and accessibility. The main HTML5 tag helps search engines and other developers 
+find the main content of your page.
+
+
+
+You can add images to your website by using the img element, 
+and point to a specific image's URL using the src attribute.
+
+An example of this would be:
+
+<img src="https://www.freecatphotoapp.com/your-image.jpg">
+
+Note that img elements are self-closing.
+
+All img elements must have an alt attribute. 
+The text inside an alt attribute is used for screen readers to improve 
+accessibility and is displayed if the image fails to load.
+
+Note: If the image is purely decorative, using an empty alt attribute is a best practice.
+
+Ideally the alt attribute should not contain special characters unless needed.
