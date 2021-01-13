@@ -11,3 +11,17 @@ tags is the forward slash after the opening bracket of a closing tag.
 
 
 
+<h2> This is a smaller heading </h2>
+
+p elements are the preferred element for paragraph text on websites. p is short for "paragraph".
+
+You can create a paragraph element like this:
+
+<p>I'm a p tag!</p>
+
+Comments in HTML start with <!-- and end with a -->
+
+<!--
+This would be a Comment
+--> 
+
