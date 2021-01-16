@@ -11,3 +11,5 @@ Completed the basic HTML overview on freecodecamp.org
 
 210114
 Completed only 20% of CSS work, going to finish tomorrow for sure
+
+210115
