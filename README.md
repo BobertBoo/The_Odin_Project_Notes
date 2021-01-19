@@ -13,3 +13,8 @@ Completed the basic HTML overview on freecodecamp.org
 Completed only 20% of CSS work, going to finish tomorrow for sure
 
 210115
+Barely got any work done
+
+210119
+Goals: 
+Complete more of CSS basics
