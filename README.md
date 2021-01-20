@@ -18,3 +18,7 @@ Barely got any work done
 210119
 Goals: 
 Complete more of CSS basics
+
+210120
+Goals:
+Complete CSS basics today it's been too long 
