@@ -22,3 +22,7 @@ Complete more of CSS basics
 210120
 Goals:
 Complete CSS basics today it's been too long 
+
+210122
+Goals:
+Complete basic CSS and some Applied Visual design, maybe abandon notes, only keeping important bits
