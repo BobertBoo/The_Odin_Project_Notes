@@ -26,3 +26,5 @@ Complete CSS basics today it's been too long
 210122
 Goals:
 Complete basic CSS and some Applied Visual design, maybe abandon notes, only keeping important bits
+Update:
+I've decided to forgo taking notes for it, I'll just focus on absorbing the information and referring back to the site if I need to. 

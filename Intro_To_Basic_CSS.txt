@@ -194,3 +194,12 @@ For example, if we wanted to create a red, 5 pixel border around an HTML element
     border-style: solid;
   }
 </style>
+
+
+
+
+
+
+Add Rounded Corners with border-radius
+We can round out corners with a CSS property called border-radius.
+
