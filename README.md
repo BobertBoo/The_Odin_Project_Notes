@@ -32,3 +32,6 @@ I've decided to forgo taking notes for it, I'll just focus on absorbing the info
 
 210127
 Goals: Finish some css I need to get this done by this week, CSS just seems so mind numbing to me, I'm about to skip and go to object oriented programming. 
+
+210129
+Goals: Other than going to the moon, I've almost completed this certificate.
