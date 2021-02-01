@@ -35,3 +35,7 @@ Goals: Finish some css I need to get this done by this week, CSS just seems so m
 
 210129
 Goals: Other than going to the moon, I've almost completed this certificate.
+
+
+210201
+Goals: It's been too long, CSS is discouraging just because of how mind numbing it is, but I'll finish it. 
