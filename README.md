@@ -39,3 +39,7 @@ Goals: Other than going to the moon, I've almost completed this certificate.
 
 210201
 Goals: It's been too long, CSS is discouraging just because of how mind numbing it is, but I'll finish it. 
+
+
+210203
+Finished CSS finally, I'm going to go on to applied visual design. 
