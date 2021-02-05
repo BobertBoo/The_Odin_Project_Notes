@@ -43,3 +43,7 @@ Goals: It's been too long, CSS is discouraging just because of how mind numbing 
 
 210203
 Finished CSS finally, I'm going to go on to applied visual design. 
+
+
+210205
+Going for applied visual design. Goal is to finish by today.
